@@ -2,6 +2,6 @@
 
 ## To Do List
 
- [] Side effects
- [] Sum of the squares
- [x] Strategy design pattern
+- Side effects
+- Sum of the squares
+- Strategy design pattern
